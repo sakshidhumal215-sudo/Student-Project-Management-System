@@ -39,15 +39,15 @@ Software Requirements:
 Default / Demo User Accounts:
 Admin:
   Username: Admin
-  Password: 1234
+  Password: 12345
 
 Guide:
   Username: Chetana Patil
-  Password: 1234
+  Password: 12345
 
 Student:
-  Username: Sakshi
-  Password: 1234
+  Username: Sakshi Dhumal
+  Password: 12345
 
 The above usernames and passwords are provided for demo/testing purposes only.
 You can log in using these credentials or create new users via the registration page.
